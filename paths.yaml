@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/shmehta/g3enterprises-demo/:/
+ - /content/shmehta/g3enterprises-demo/metadata.json:/metadata.json
+ - /content/shmehta/g3enterprises-demo/redirects.json:/redirects.json
